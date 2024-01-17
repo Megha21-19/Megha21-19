@@ -11,6 +11,7 @@ Welcome to my GitHub page! Here you'll find a collection of my projects, skills,
 Hi, I'm Meghana Reddy M, a skilled Software Developer specialized in Computer Science. I recently graduated with a Master's degree in Computer Science from New Jersey Institute Of Technology. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
 const meghana = {
+
     pronouns: "she" | "her",
     code: ["Javascript", "Python", "SQL", "C#", "HTML", "CSS", "Java"],
     askMeAbout: ["web dev", "front end", "back end", "full stack", "tech"],
