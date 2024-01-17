@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###### Meghana Reddy M
+# Meghana Reddy M
 
 A Technology and Data Enthusiast, Software Engineer and Web Developer 💻❤️
 
