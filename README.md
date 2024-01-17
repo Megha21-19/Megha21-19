@@ -1,16 +1,45 @@
 ### Hi there 👋
 
-<!--
-**Megha21-19/Megha21-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meghana Reddy M
 
-Here are some ideas to get you started:
+A Technology and Data Enthusiast, Software Engineer and Web Developer 💻❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. 
+
+### About Me
+
+Hi, I'm Meghana Reddy M, a skilled Software Developer specialized in Computer Science. I recently graduated with a Master's degree in Computer Science from New Jersey Institute Of Technology. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+
+const meghana = {
+    pronouns: "she" | "her",
+    code: ["Javascript", "Python", "SQL", "C#", "HTML", "CSS", "Java"],
+    askMeAbout: ["web dev", "front end", "back end", "full stack", "tech"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap"],
+            js: ["React", "Angular"]
+        },
+        backEnd: {
+            js: ["Spring Boot","ASP.NET", "ADO.NET"]
+        },
+        databases: ["MySQL","SQLite", "MongoDB", "Oracle"],
+        misc: ["Git", "AWS", "Jupyter Notebook", "Eclipse"]
+    }
+};
+
+### My Skills
+
+𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: JavaScript, Python, SQL, C#, Core Java
+
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MySQL, Mongo DB, Oracle Database, SQLite
+
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, XAMPP Apache Web server, Bootstrap, PHP, AngularJS, Apache Tomcat, REST APIs, Django Framework, JIRA, Postman, Jupyter Notebook, Eclipse, Visual Studio.
+
+### Work Experience
+
+Software Developer - Deft and Tact
+
+System Engineer - Infosys
+
+
+
