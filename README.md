@@ -21,7 +21,7 @@ const meghana = {
             js: ["React", "Angular"]
         },
         backEnd: {
-            js: ["Spring Boot","ASP.NET", "ADO.NET"]
+            js: ["Spring Boot","ASP.NET", "ADO.NET","Django"]
         },
         databases: ["MySQL","SQLite", "MongoDB", "Oracle"],
         misc: ["Git", "AWS", "Jupyter Notebook", "Eclipse"]
