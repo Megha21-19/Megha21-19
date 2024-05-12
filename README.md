@@ -38,7 +38,7 @@ const meghana = {
 
 ### Work Experience
 
-Software Developer - Deft and Tact
+Associate Software Engineer - Deft and Tact
 
 System Engineer - Infosys
 
