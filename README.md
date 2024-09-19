@@ -38,9 +38,11 @@ const meghana = {
 
 ### Work Experience
 
-Associate Software Engineer - Deft and Tact
+Data Engineer - Capital One(Contract)
 
-System Engineer - Infosys
+Data Analyst - Deft and Tact
+
+Data Analyst - Infosys
 
 
 
