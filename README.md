@@ -12,19 +12,12 @@ Hi, I'm Meghana Reddy M, a skilled Software Developer specialized in Computer Sc
 
 const meghana = {
 
-    pronouns: "she" | "her",
-    code: ["Javascript", "Python", "SQL", "C#", "HTML", "CSS", "Java"],
-    askMeAbout: ["web dev", "front end", "back end", "full stack", "tech"],
-    technologies: {
-        frontEnd: {
-            css: ["bootstrap"],
-            js: ["React", "Angular"]
-        },
-        backEnd: {
-            js: ["Spring Boot","ASP.NET", "ADO.NET","Django"]
-        },
-        databases: ["MySQL","SQLite", "MongoDB", "Oracle"],
-        misc: ["Git", "AWS", "Jupyter Notebook", "Eclipse"]
+    Big Data Ecosystem: Hadoop, MapReduce, Hive, Apache Spark, Pig
+    Methodology: SDLC, Agile, Waterfall Programming Language: R, Python, SQL IDE’s: PyCharm, Jupyter Notebook
+    ETL Tools: SSIS, Apache NiFi, Apache Kafka, Talend, Apache Airflow, Informatica
+    DevOps Tools: Docker, Kubernetes, Jenkins, CI/CD
+    Cloud Technologies: AWS (S3, EC2, RDS, Lambda, Redshift), Azure, Snowflake, GCP Packages: NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Seaborn, TensorFlow Reporting Tools: Tableau, Power BI, SSRS, Looker
+    Database: MongoDB, MySQL, PostgreSQL Version Control: Git, GitHub, GitLab Operating Systems: Windows, Linux, Mac
     }
 };
 
