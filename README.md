@@ -2,7 +2,7 @@
 
 # Meghana Reddy M
 
-A Technology and Data Enthusiast, Software Engineer 💻❤️
+A Technology and Data Enthusiast, Data Engineer 💻❤️
 
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. 
 
