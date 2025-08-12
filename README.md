@@ -23,7 +23,7 @@ const meghana = {
 
 ### My Skills
 
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: JavaScript, Python, SQL, C#, Core Java
+𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: JavaScript, Python, SQL
 
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MySQL, Mongo DB, Oracle Database, SQLite
 
