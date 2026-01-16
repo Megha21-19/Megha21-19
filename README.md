@@ -33,9 +33,7 @@ const meghana = {
 
 Data Engineer - Capital One(Contract)
 
-Data Analyst - Deft and Tact
-
-Data Analyst - Infosys
+Associate Data Engineer - Infosys
 
 
 
