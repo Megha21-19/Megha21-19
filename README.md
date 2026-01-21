@@ -31,7 +31,7 @@ const meghana = {
 
 ### Work Experience
 
-Data Engineer - Capital One(Contract)
+Data Engineer - Capital One
 
 Associate Data Engineer - Infosys
 
