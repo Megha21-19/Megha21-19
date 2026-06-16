@@ -19,6 +19,15 @@ between raw data and intelligent systems — from ingestion to inference.
 
 ---
 
+## 🏅 Certifications
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| 🧠 Generative AI Fundamentals | Databricks | 2025 |
+| 🤖 Claude with the Anthropic API | Anthropic | 2026 |
+
+---
+
 ## 🛠️ Tech Stack
 
 ```python
