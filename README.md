@@ -1,39 +1,68 @@
-### Hi there 👋
+# Hi there, I'm Meghana Reddy M 👋
 
-# Meghana Reddy M
+🎓 MS Computer Science — New Jersey Institute of Technology  
+💡 Passionate about Machine Learning, AI Systems, and Data Engineering  
+🔭 Currently building end-to-end AI pipelines and RAG-based applications
 
-A Technology and Data Enthusiast, Data Engineer 💻❤️
+---
 
-Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. 
+## 🧠 About Me
 
-### About Me
+I'm a Data Engineer and ML enthusiast with hands-on experience building scalable data pipelines, 
+training deep learning models, and deploying AI-powered applications. I love bridging the gap 
+between raw data and intelligent systems — from ingestion to inference.
 
-Hi, I'm Meghana Reddy M, a skilled Software Developer specialized in Computer Science. I recently graduated with a Master's degree in Computer Science from New Jersey Institute Of Technology. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+- 🤖 Building RAG pipelines with vector search and LLM integration  
+- 📊 Designing ETL workflows on AWS, Snowflake, and Spark  
+- 🧬 Exploring NLP, transformers, and computer vision  
+- 🌱 Always learning — currently deep in LLMs and MLOps  
 
-const meghana = {
+---
 
-    Big Data Ecosystem: Hadoop, MapReduce, Hive, Apache Spark, Pig
-    Methodology: SDLC, Agile, Waterfall Programming Language: R, Python, SQL IDE’s: PyCharm, Jupyter Notebook
-    ETL Tools: SSIS, Apache NiFi, Apache Kafka, Talend, Apache Airflow, Informatica
-    DevOps Tools: Docker, Kubernetes, Jenkins, CI/CD
-    Cloud Technologies: AWS (S3, EC2, RDS, Lambda, Redshift), Azure, Snowflake, GCP Packages: NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Seaborn, TensorFlow Reporting Tools: Tableau, Power BI, SSRS, Looker
-    Database: MongoDB, MySQL, PostgreSQL Version Control: Git, GitHub, GitLab Operating Systems: Windows, Linux, Mac
-    }
-};
+## 🛠️ Tech Stack
 
-### My Skills
+```python
+meghana = {
+    "languages":        ["Python", "SQL", "R"],
+    "ml_frameworks":    ["TensorFlow", "PyTorch", "Scikit-learn", "HuggingFace Transformers"],
+    "ai_tools":         ["LangChain", "FAISS", "RAG Pipelines", "Claude API", "OpenAI API"],
+    "data_engineering": ["Apache Spark", "Kafka", "Airflow", "NiFi", "Hadoop", "Hive"],
+    "cloud":            ["AWS (S3, EC2, Lambda, Redshift, SageMaker)", "GCP", "Azure", "Snowflake"],
+    "databases":        ["PostgreSQL", "MongoDB", "MySQL", "Pinecone", "ChromaDB"],
+    "devops_mlops":     ["Docker", "Kubernetes", "Jenkins", "CI/CD", "MLflow"],
+    "visualization":    ["Tableau", "Power BI", "Matplotlib", "Seaborn"],
+    "tools":            ["Git", "Jupyter", "VS Code", "Postman"]
+}
+```
 
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: JavaScript, Python, SQL
+---
 
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MySQL, Mongo DB, Oracle Database, SQLite
+## 🚀 Featured Projects
 
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, XAMPP Apache Web server, Bootstrap, PHP, AngularJS, Apache Tomcat, REST APIs, Django Framework, JIRA, Postman, Jupyter Notebook, Eclipse, Visual Studio.
+### 🔍 [RAG Pipeline — AI Document Q&A](https://github.com/Megha21-19/Rag-pipeline)
+End-to-end Retrieval-Augmented Generation system built from scratch.  
+`Python` `FAISS` `TF-IDF` `Claude API` `BM25` `ROUGE Evaluation`
+- 4 chunking strategies (fixed, sentence, paragraph, recursive)
+- Hybrid retrieval: dense embeddings + BM25 with MMR reranking
+- Full evaluation suite: MRR, NDCG, ROUGE-L, faithfulness scoring
+- 55 unit + integration tests
 
-### Work Experience
+---
 
-Data Engineer - Capital One
+## 💼 Work Experience
 
-Associate Data Engineer - Infosys
+**Data Engineer — Capital One**  
+Designed and maintained large-scale data pipelines; worked with AWS, Spark, and Snowflake 
+to process millions of records daily.
 
+**Associate Data Engineer — Infosys**  
+Built ETL workflows and automated data quality checks using Apache Airflow and Kafka.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghanar27/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Megha21-19)
 
 
